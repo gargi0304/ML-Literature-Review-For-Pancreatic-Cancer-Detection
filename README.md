@@ -1,2 +1,2 @@
 # ML-Literature-Review-For-Pancreatic-Cancer-Detection
-Final grade for this was 100%
+Received 100% for this literature review from my supervisor.
